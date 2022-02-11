@@ -1,0 +1,41 @@
+body {
+  margin-top: 5px;
+}
+
+#miid {
+  /* background: url("/assets/clients/encora.png"); */
+  /* background: "background.png"; */
+  background-color: gainsboro;
+  /* background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%); */
+  /* background: linear-gradient(180deg, #f8c3cc 0%, #df7e7e 100%); */
+  height: 100px;
+  /* height: 400px; */
+}
+
+#buttons-header {
+  /* z-index: 0; */
+  /* position: absolute; */
+  /* position: absolute; */
+  /* top: 50%; */
+  /* left: 50%; */
+  /* transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%); */
+  right: 15%;
+  bottom: 0%;
+  /* margin-right: 15px; */
+  position: absolute;
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  /* text-align: right; */
+}
+
+#img-header {
+  position: relative;
+  z-index: 0;
+  width: 100%;
+}
